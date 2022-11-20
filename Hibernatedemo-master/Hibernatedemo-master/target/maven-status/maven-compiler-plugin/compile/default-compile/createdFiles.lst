@@ -1,0 +1,12 @@
+model\LopHoc.class
+service\LopHocService.class
+model\LopHocCustom.class
+reopsitory\SinhVienRepository.class
+hibernateDemo\HibernatUtil.class
+reopsitory\LopHocRepository.class
+service\impl\LopHocServiceImpl.class
+view\main.class
+service\impl\SinhVienServiceImpl.class
+model\SinhVien.class
+model\SinhVienCustom.class
+service\SinhVienService.class
